@@ -1,0 +1,21 @@
+[project]
+name = "multextification"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "jupyter",
+    "matplotlib",
+    "nltk",
+    "pandas",
+    "pip",
+    "scikit-learn",
+    "scipy",
+    "spacy",
+    "wordcloud",
+    "xgboost",
+]
+
+[dependency-groups]
+dev = ["black[jupyter]", "ruff"]

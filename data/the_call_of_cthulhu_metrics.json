@@ -1,0 +1,31 @@
+{
+    "statistics": {
+        "char_count": 89486,
+        "word_count": 14456,
+        "sentence_count": 545,
+        "vocab_size": 3395
+    },
+    "complexity": {
+        "lexical_diversity": 0.235,
+        "avg_sentence_length_words": 26.52,
+        "avg_word_length_chars": 4.73
+    },
+    "pos_distribution": {
+        "Nouns (NN)": 0.254,
+        "Verbs (VB)": 0.165,
+        "Adjectives (JJ)": 0.099,
+        "Adverbs (RB)": 0.053
+    },
+    "top_keywords": {
+        "project": 85,
+        "work": 48,
+        "could": 38,
+        "one": 37,
+        "professor": 33,
+        "men": 32,
+        "works": 32,
+        "great": 30,
+        "old": 30,
+        "cult": 29
+    }
+}
